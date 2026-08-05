@@ -1,0 +1,9 @@
+{
+  "command": "exit",
+  "pathing": "",
+  "status": "idle",
+  "FishingCycle": 0,
+  "SellCycle": 0,
+  "CurrentCycle": 0,
+  "debug": true
+}
