@@ -1,6 +1,7 @@
 **PROJECT ECLIPSE**
 
-<img width="797" height="445" alt="image" src="https://github.com/user-attachments/assets/d113386a-87dd-4eae-96ef-1cc56cc6e468" />
+<img width="800" height="450" alt="Preview" src="https://github.com/user-attachments/assets/5553a5d8-8bb6-41a0-a275-083c09d1355b" />
+
 
 Made By ProtonSebastian
 -
