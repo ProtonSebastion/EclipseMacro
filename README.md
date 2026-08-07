@@ -13,3 +13,9 @@ Made By ProtonSebastian
 - Fixed An Issue Where Ahk Didnt Exit When Stopped
 - Added Keybinds For Start And Stop
 - Aswell as Optimizing Some Codes
+
+**Expected Next Updates**
+-
+- OpenCV (Either 1.3 or 1.2)
+- BugFixes
+- and More :)
