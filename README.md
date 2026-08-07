@@ -8,8 +8,13 @@ Work In Progress
 
 
 Changelogs V1.1
+
 We Dont Talk About v1.0
+
 V1.1
+
 -Fixed Pathing Issues
+
 -Added KeyBinds To start And Stop
+
 -Fixed Some Issues With Discord Webhook
