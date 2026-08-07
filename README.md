@@ -5,6 +5,7 @@ Made By ProtonSebastian Sols Rng Macro Specifically
 
 Work In Progress
 
+Just a small project :)
 
 Changelogs V1.1
 
