@@ -1,4 +1,5 @@
 <img width="24" height="24" alt="EclipseLogo" src="https://github.com/user-attachments/assets/e3763600-2dd5-4481-8542-de294c7e76fe" />
+
 ### PROJECT SOLSTICE ###
 <img width="797" height="445" alt="image" src="https://github.com/user-attachments/assets/d113386a-87dd-4eae-96ef-1cc56cc6e468" />
 
