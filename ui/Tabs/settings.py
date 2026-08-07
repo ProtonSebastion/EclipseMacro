@@ -14,7 +14,7 @@ THEME_LOGOS = {
     "Illusionary":      os.path.join(ICON_DIR, "illusionaryLogo2.png"),
 }
 
-GITHUB_URL = "https://github.com/ProtonSebastion/EclipseMacro"
+GITHUB_URL = "https://github.com/ProtonSebastion/ProjectEclipse"
 
 
 class SettingsTab(ctk.CTkFrame):
